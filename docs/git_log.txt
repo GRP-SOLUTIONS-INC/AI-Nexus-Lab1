@@ -1,0 +1,301 @@
+AI-NEXUS LAB — PROJECT ACTIVITY LOG (REPORT-BASED DRAFT) Project: Data
+Engineering for AI-Nexus Lab Role: Data Engineer Repository:
+GRP-SOLUTIONS-INC/AI-Nexus-Lab Reporting period requested: 10 August
+2026 – 10 November 2026
+
+IMPORTANT — THIS IS NOT A GIT COMMIT HISTORY No actual commits were
+found/provided for the repository. The entries below are day-wise
+project activities transcribed from the supplied three-month progress
+report and assigned to consecutive weekdays starting 10 August 2026.
+They are not evidence that code was committed on those dates. No commit
+hashes, authors, commit timestamps, changed-file lists, or commit
+messages are fabricated. Do not present this file as output from
+git log. Weekends (Saturday and Sunday) are excluded.
+
+DATE ASSIGNMENT NOTE The source report contains 60 numbered workdays
+(Day 1–Day 60). Mapping those 60 workdays to consecutive weekdays from
+10 August 2026 places Day 60 on 30 October 2026. The requested reporting
+period continues through 10 November 2026, but the source report does
+not provide additional day-specific activities for the seven weekdays
+from 2–10 November 2026. Those dates are explicitly marked as not
+specified below rather than filled with invented work.
+
+DAY-WISE PROJECT ACTIVITIES
+
+Monday, 10 August 2026 | Day 01 Activity: Introduction to AI-Nexus Lab
+and understanding its AI research and development objectives. Record
+type: Report-based activity; not a verified Git commit.
+
+Tuesday, 11 August 2026 | Day 02 Activity: Understanding the role of
+Data Engineering in AI and Machine Learning projects. Record type:
+Report-based activity; not a verified Git commit.
+
+Wednesday, 12 August 2026 | Day 03 Activity: Studying the existing
+project requirements and identifying potential data sources. Record
+type: Report-based activity; not a verified Git commit.
+
+Thursday, 13 August 2026 | Day 04 Activity: Understanding structured,
+semi-structured, and unstructured data formats. Record type:
+Report-based activity; not a verified Git commit.
+
+Friday, 14 August 2026 | Day 05 Activity: Setting up the development
+environment and exploring Python, VS Code, and Jupyter Notebook. Record
+type: Report-based activity; not a verified Git commit.
+
+Monday, 17 August 2026 | Day 06 Activity: Revising Python fundamentals,
+variables, data types, loops, functions, and exception handling. Record
+type: Report-based activity; not a verified Git commit.
+
+Tuesday, 18 August 2026 | Day 07 Activity: Working with Python libraries
+such as Pandas and NumPy. Record type: Report-based activity; not a
+verified Git commit.
+
+Wednesday, 19 August 2026 | Day 08 Activity: Reading CSV and Excel files
+using Pandas. Record type: Report-based activity; not a verified Git
+commit.
+
+Thursday, 20 August 2026 | Day 09 Activity: Exploring datasets and
+understanding rows, columns, data types, and data distributions. Record
+type: Report-based activity; not a verified Git commit.
+
+Friday, 21 August 2026 | Day 10 Activity: Performing basic data analysis
+and generating summary statistics. Record type: Report-based activity;
+not a verified Git commit.
+
+Monday, 24 August 2026 | Day 11 Activity: Identifying missing values in
+raw datasets. Record type: Report-based activity; not a verified Git
+commit.
+
+Tuesday, 25 August 2026 | Day 12 Activity: Handling null values using
+appropriate preprocessing techniques. Record type: Report-based
+activity; not a verified Git commit.
+
+Wednesday, 26 August 2026 | Day 13 Activity: Identifying and removing
+duplicate records. Record type: Report-based activity; not a verified
+Git commit.
+
+Thursday, 27 August 2026 | Day 14 Activity: Standardizing column names,
+date formats, and inconsistent data values. Record type: Report-based
+activity; not a verified Git commit.
+
+Friday, 28 August 2026 | Day 15 Activity: Performing data validation and
+checking dataset consistency. Record type: Report-based activity; not a
+verified Git commit.
+
+Monday, 31 August 2026 | Day 16 Activity: Understanding relational
+database concepts and database architecture. Record type: Report-based
+activity; not a verified Git commit.
+
+Tuesday, 01 September 2026 | Day 17 Activity: Practicing SQL queries
+using SELECT, INSERT, UPDATE, and DELETE. Record type: Report-based
+activity; not a verified Git commit.
+
+Wednesday, 02 September 2026 | Day 18 Activity: Understanding primary
+keys, foreign keys, and database relationships. Record type:
+Report-based activity; not a verified Git commit.
+
+Thursday, 03 September 2026 | Day 19 Activity: Creating database tables
+and defining appropriate column data types. Record type: Report-based
+activity; not a verified Git commit.
+
+Friday, 04 September 2026 | Day 20 Activity: Inserting processed
+datasets into database tables and verifying records. Record type:
+Report-based activity; not a verified Git commit.
+
+Monday, 07 September 2026 | Day 21 Activity: Understanding the ETL
+architecture and its importance in data engineering. Record type:
+Report-based activity; not a verified Git commit.
+
+Tuesday, 08 September 2026 | Day 22 Activity: Developing Python scripts
+to extract data from CSV and Excel files. Record type: Report-based
+activity; not a verified Git commit.
+
+Wednesday, 09 September 2026 | Day 23 Activity: Exploring JSON data
+structures and extracting records from JSON files. Record type:
+Report-based activity; not a verified Git commit.
+
+Thursday, 10 September 2026 | Day 24 Activity: Understanding REST API
+concepts and retrieving data from available APIs. Record type:
+Report-based activity; not a verified Git commit.
+
+Friday, 11 September 2026 | Day 25 Activity: Consolidating data from
+multiple source files into a common processing structure. Record type:
+Report-based activity; not a verified Git commit.
+
+Monday, 14 September 2026 | Day 26 Activity: Developing transformation
+scripts using Python and Pandas. Record type: Report-based activity; not
+a verified Git commit.
+
+Tuesday, 15 September 2026 | Day 27 Activity: Implementing data type
+conversions and standardizing column formats. Record type: Report-based
+activity; not a verified Git commit.
+
+Wednesday, 16 September 2026 | Day 28 Activity: Applying filtering,
+sorting, grouping, and aggregation operations. Record type: Report-based
+activity; not a verified Git commit.
+
+Thursday, 17 September 2026 | Day 29 Activity: Handling inconsistent
+records and applying business rules to datasets. Record type:
+Report-based activity; not a verified Git commit.
+
+Friday, 18 September 2026 | Day 30 Activity: Validating transformed
+datasets and comparing source and processed records. Record type:
+Report-based activity; not a verified Git commit.
+
+Monday, 21 September 2026 | Day 31 Activity: Connecting Python
+applications to the selected relational database. Record type:
+Report-based activity; not a verified Git commit.
+
+Tuesday, 22 September 2026 | Day 32 Activity: Developing scripts to load
+processed datasets into database tables. Record type: Report-based
+activity; not a verified Git commit.
+
+Wednesday, 23 September 2026 | Day 33 Activity: Performing SQL JOIN
+operations to combine related datasets. Record type: Report-based
+activity; not a verified Git commit.
+
+Thursday, 24 September 2026 | Day 34 Activity: Implementing database
+constraints and checking data integrity. Record type: Report-based
+activity; not a verified Git commit.
+
+Friday, 25 September 2026 | Day 35 Activity: Optimizing SQL queries and
+reviewing database performance. Record type: Report-based activity; not
+a verified Git commit.
+
+Monday, 28 September 2026 | Day 36 Activity: Designing an end-to-end ETL
+workflow. Record type: Report-based activity; not a verified Git commit.
+
+Tuesday, 29 September 2026 | Day 37 Activity: Developing the extraction
+component of the pipeline. Record type: Report-based activity; not a
+verified Git commit.
+
+Wednesday, 30 September 2026 | Day 38 Activity: Implementing the data
+transformation and cleaning component. Record type: Report-based
+activity; not a verified Git commit.
+
+Thursday, 01 October 2026 | Day 39 Activity: Developing the loading
+component to store processed records in the database. Record type:
+Report-based activity; not a verified Git commit.
+
+Friday, 02 October 2026 | Day 40 Activity: Testing the complete ETL
+workflow and identifying processing errors. Record type: Report-based
+activity; not a verified Git commit.
+
+Monday, 05 October 2026 | Day 41 Activity: Understanding data quality
+requirements and identifying common data issues. Record type:
+Report-based activity; not a verified Git commit.
+
+Tuesday, 06 October 2026 | Day 42 Activity: Implementing validation
+checks for missing and duplicate records. Record type: Report-based
+activity; not a verified Git commit.
+
+Wednesday, 07 October 2026 | Day 43 Activity: Developing checks for
+incorrect data types and inconsistent values. Record type: Report-based
+activity; not a verified Git commit.
+
+Thursday, 08 October 2026 | Day 44 Activity: Comparing source records
+with destination database records. Record type: Report-based activity;
+not a verified Git commit.
+
+Friday, 09 October 2026 | Day 45 Activity: Documenting data quality
+issues and implementing corrective measures. Record type: Report-based
+activity; not a verified Git commit.
+
+Monday, 12 October 2026 | Day 46 Activity: Reviewing existing ETL
+scripts and identifying opportunities for improvement. Record type:
+Report-based activity; not a verified Git commit.
+
+Tuesday, 13 October 2026 | Day 47 Activity: Implementing exception
+handling in Python data processing scripts. Record type: Report-based
+activity; not a verified Git commit.
+
+Wednesday, 14 October 2026 | Day 48 Activity: Adding logging mechanisms
+to track pipeline execution. Record type: Report-based activity; not a
+verified Git commit.
+
+Thursday, 15 October 2026 | Day 49 Activity: Improving scripts to handle
+failed records and processing errors. Record type: Report-based
+activity; not a verified Git commit.
+
+Friday, 16 October 2026 | Day 50 Activity: Testing pipeline execution
+with different datasets and input conditions. Record type: Report-based
+activity; not a verified Git commit.
+
+Monday, 19 October 2026 | Day 51 Activity: Understanding the data
+requirements of AI and Machine Learning applications. Record type:
+Report-based activity; not a verified Git commit.
+
+Tuesday, 20 October 2026 | Day 52 Activity: Preparing structured
+datasets for Machine Learning experimentation. Record type: Report-based
+activity; not a verified Git commit.
+
+Wednesday, 21 October 2026 | Day 53 Activity: Performing feature
+selection and basic feature engineering. Record type: Report-based
+activity; not a verified Git commit.
+
+Thursday, 22 October 2026 | Day 54 Activity: Exploring data formats and
+preprocessing requirements for AI applications. Record type:
+Report-based activity; not a verified Git commit.
+
+Friday, 23 October 2026 | Day 55 Activity: Preparing clean datasets for
+potential Generative AI and LLM-based applications. Record type:
+Report-based activity; not a verified Git commit.
+
+Monday, 26 October 2026 | Day 56 Activity: Reviewing the complete data
+ingestion and transformation workflow. Record type: Report-based
+activity; not a verified Git commit.
+
+Tuesday, 27 October 2026 | Day 57 Activity: Performing end-to-end
+testing of data processing and database loading. Record type:
+Report-based activity; not a verified Git commit.
+
+Wednesday, 28 October 2026 | Day 58 Activity: Identifying pipeline
+performance issues and improving processing efficiency. Record type:
+Report-based activity; not a verified Git commit.
+
+Thursday, 29 October 2026 | Day 59 Activity: Preparing technical
+documentation covering database structures, scripts, and workflows.
+Record type: Report-based activity; not a verified Git commit.
+
+Friday, 30 October 2026 | Day 60 Activity: Reviewing completed work,
+documenting project progress, and preparing a final project
+demonstration. Record type: Report-based activity; not a verified Git
+commit.
+
+Monday, 02 November 2026 | No day-specific activity supplied Activity:
+The source report contains no additional dated task for this weekday.
+Record type: Not specified; no activity or commit is asserted.
+
+Tuesday, 03 November 2026 | No day-specific activity supplied Activity:
+The source report contains no additional dated task for this weekday.
+Record type: Not specified; no activity or commit is asserted.
+
+Wednesday, 04 November 2026 | No day-specific activity supplied
+Activity: The source report contains no additional dated task for this
+weekday. Record type: Not specified; no activity or commit is asserted.
+
+Thursday, 05 November 2026 | No day-specific activity supplied Activity:
+The source report contains no additional dated task for this weekday.
+Record type: Not specified; no activity or commit is asserted.
+
+Friday, 06 November 2026 | No day-specific activity supplied Activity:
+The source report contains no additional dated task for this weekday.
+Record type: Not specified; no activity or commit is asserted.
+
+Monday, 09 November 2026 | No day-specific activity supplied Activity:
+The source report contains no additional dated task for this weekday.
+Record type: Not specified; no activity or commit is asserted.
+
+Tuesday, 10 November 2026 | No day-specific activity supplied Activity:
+The source report contains no additional dated task for this weekday.
+Record type: Not specified; no activity or commit is asserted.
+
+END OF REPORT-BASED ACTIVITY LOG
+
+To generate a real commit history after commits exist, run this in a
+local clone: git log –since=“2026-08-10 00:00:00” –until=“2026-11-10
+23:59:59” –date=iso-strict –pretty=format:“%H | %an | %ad | %s” >
+git_log.txt
+
+Git’s git log command reports commits that actually exist in the
+repository; it does not create commits or infer work activities.
